@@ -160,4 +160,9 @@ const inventory = [
     originalStock: 10,
     sold: 8,
   },
+
 ];
+
+
+
+
